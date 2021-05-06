@@ -1,0 +1,16 @@
+body {
+  font: 100% Helvetica, sans-serif;
+  color: #9c2c64;
+  background-color: white;
+}
+
+p {
+  background-color: #9c2c64;
+  color: yellow;
+}
+
+header {
+  background-color: green;
+}
+
+/*# sourceMappingURL=style.css.map */
