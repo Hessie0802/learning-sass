@@ -1,20 +1,25 @@
-
-$font-stack:    Helvetica, sans-serif
-$primary-color: #1111
-$second-color: white
-$third-color: green
-
+$font-stack: Helvetica, sans-serif;
+$primary-color: #1111;
+$second-color: white;
+$third-color: green;
 
 body {
-  
-  $primary-color
-  background-color: white
+  background-color: $second-color;
 }
 
+header {
+  background-color: $third-color;
+}
 
-header {background-color: $third-color}
+.span {
+  color: $third-color;
+}
+.blok1, .blok2 {padding: 10vh; 
+  text-align: 100px; 
+  float:center; 
+  height:100px; 
+  background:gray; 
+  margin:10px;}
 
 
-
-.span {color:$third-color}
 
